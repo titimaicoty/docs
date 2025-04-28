@@ -3,7 +3,7 @@
 import android.content.Context;
 import android.content.SharedPreferences;
 
-public class DoxingPrevention {
+{
 
     private static final String PREFS_NAME = "UserPrefs";
     private static final String KEY_USER_DATA = "UserData";
